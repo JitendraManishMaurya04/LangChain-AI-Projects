@@ -1,7 +1,7 @@
 # LangChain-AI-Projects
 
-##Contains Below LangChain projects:
-	### Restraunt Name and Menu Itmes Generator
-	### Equity Research Tool
+## Contains Below LangChain projects:
+### Restraunt Name and Menu Items Generator
+### Equity Research Tool
 	
 	
