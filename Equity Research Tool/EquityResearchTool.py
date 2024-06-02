@@ -1,10 +1,7 @@
 import os
 import pickle
-import time
 import streamlit as st
-import langchain_helper as lh
 from langchain_community.document_loaders import UnstructuredURLLoader
-from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAI
 from langchain.chains import RetrievalQAWithSourcesChain
@@ -21,7 +18,7 @@ st.title("Equity Research Tool")
 st.sidebar.title("News Article URL's")
 
 urls=[]
-filePath="faiss_store_openai.pkl"
+filePath= "../faiss_store_openai.pkl"
 
 mainPlaceHolder = st.empty()
 llm = OpenAI(temperature=0.9, max_tokens=500)
