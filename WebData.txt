@@ -1,0 +1,10 @@
+How Shareholder Equity Works
+By comparing concrete numbers reflecting everything the company owns and everything it owes, the "assets-minus-liabilities" shareholder equity equation paints a clear picture of a company's finances, easily interpreted by investors and analysts.
+1
+U.S. Securities and Exchange Commission. "Beginners' Guide to Financial Statements."
+
+ Equity is used as capital raised by a company, which is then used to purchase assets, invest in projects, and fund operations. A firm typically can raise capital by issuing debt (in the form of a loan or via bonds) or equity (by selling stock). Investors usually seek out equity investments as it provides a greater opportunity to share in the profits and growth of a firm.
+
+Equity is important because it represents the value of an investor's stake in a company, represented by the proportion of its shares. Owning stock in a company gives shareholders the potential for capital gains and dividends. Owning equity will also give shareholders the right to vote on corporate actions and elections for the board of directors. These equity ownership benefits promote shareholders' ongoing interest in the company.
+
+Shareholder equity can be either negative or positive. If positive, the company has enough assets to cover its liabilities. If negative, the company's liabilities exceed its assets; if prolonged, this is considered balance sheet insolvency. Typically, investors view companies with negative shareholder equity as risky or unsafe investments. Shareholder equity alone is not a definitive indicator of a company's financial health; used in conjunction with other tools and metrics, the investor can accurately analyze the health of an organization.
