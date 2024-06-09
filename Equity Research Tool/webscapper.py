@@ -7,7 +7,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 def webscrappingAndSplittingIntoChunks():
     print("*******Text File Loader ******************")
-    txtLoader = TextLoader("../WebData.txt")
+    txtLoader = TextLoader("WebData.txt")
     textData = txtLoader.load()
     print(textData[0].metadata)
     print(textData[0].page_content)

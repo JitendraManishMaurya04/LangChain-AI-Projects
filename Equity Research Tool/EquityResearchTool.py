@@ -18,7 +18,7 @@ st.title("Equity Research Tool")
 st.sidebar.title("News Article URL's")
 
 urls=[]
-filePath= "../faiss_store_openai.pkl"
+filePath= "faiss_store_openai.pkl"
 
 mainPlaceHolder = st.empty()
 llm = OpenAI(temperature=0.9, max_tokens=500)
